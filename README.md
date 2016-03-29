@@ -1,2 +1,2 @@
 # Search-Diagrams
-# Diagrams compatible with LibreOffice-Draw
+## Diagrams are compatible with LibreOffice-Draw
